@@ -1,20 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
-import 'package:plants_info/third.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
 
-class extra extends StatelessWidget {
+class Extra extends StatelessWidget {
+  const Extra({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Setting"),
-
-      ),
-      body: Container(
-        child: Text("This is Setting page"),
-
-      ),
+    return Container(
+      color: Colors.green,
     );
   }
 }

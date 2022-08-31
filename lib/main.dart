@@ -1,15 +1,24 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:plants_info/front_page.dart';
-import 'package:plants_info/secondscreen.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
 
-void main() {
+import 'auth/mainpage.dart';
 
-  runApp(MaterialApp(
-      debugShowCheckedModeBanner: false,
-  home: home(
+Future main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(MyApp());
+}
 
-  )
-  )
-  ); //myApp=Class
+final navigatorKey = GlobalKey<NavigatorState>();
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) => MaterialApp(
+        navigatorKey: navigatorKey,
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          textTheme: TextTheme(bodySmall: TextStyle(fontSize: 5.0)),
+        ),
+        home: mainPage(),
+      );
 }
