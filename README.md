@@ -5,7 +5,7 @@ Flutter representation of a Plants Information System(Application) that provides
 Star⭐ the repo if you like what you see😉.
 
 
-![PlantsUi](plantsinfo.jpg)
+![PlantsUi](https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/plantsinfo.jpg?raw=true)
 
 # About 
 Welcome to my Plant Info! This app is designed to help you learn more about the plants in your home, garden, or local environment.
@@ -19,17 +19,17 @@ Whether you're a seasoned horticulturist or just starting out with houseplants, 
 ## 📸 ScreenShots
 Here are some screnshot of UI of the application.
 <p float="left">
-  <img src="1.png" width="300" />
-  <img src="2.png" width="300" /> 
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/1.png" width="300" />
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/2.jpg" width="300" /> 
 </p>
 <p float="left">
-  <img src="3.png" width="300" />
-  <img src="4.png" width="300" /> 
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/3.png" width="300" />
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/4.png" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="7.png" width="300" />
-  <img src="6.png" width="300" /> 
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/7.png" width="300" />
+  <img src="https://github.com/sauravchaulagain/Plants-Info/blob/master/assets/plants_info_markdown/6.png" width="300" /> 
 </p>
 
 
