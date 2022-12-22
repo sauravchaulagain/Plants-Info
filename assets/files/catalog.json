@@ -1,0 +1,122 @@
+{
+    "products": [
+
+        {
+            "id": 1,
+            "name": "Zz plant",
+            "origin":"Africa ",
+            "desc": "Zz plant is an easy to grow and care for indoor plant which can grow up to about 3 ft long. Its botanical name is zamioculcas zamiifolia which has small glossy green leaves on stem. It is also popular air purifying plant. Repot your zz plant in about once a year if there is visible growth.",
+            "water": "Over watering can rot the stem. Water once when top soil is dry. ",
+            "light": "Moderate to bright indirect sunlight but can adapt low light as well. ",
+            "temperature":"Average warm from 60-75°F and not less than 45°F ",
+            "soil":"Keep good drainage holes at bottom and use any potting mix",
+            "image": "assets/Zzplant.jpg"
+        },
+        {
+            "id": 2,
+            "name": " Parlor Palm",
+            "origin":"Mexico",
+            "desc": "Also known as ‘Chamaedorea Elegans’, parlor palm is a most popular easy growing palm found in many households. It has evergreen leaves which is delightful to watch. It can grow up to approximately 2-4 ft in a suitable condition. It is slow growing plant so be a little patient with it. ",
+            "water": "Once when top soil starts to dry out. Water very little in winter. Make sure this plant is not over watered. ",
+            "light": "Parlor palm adapts low to bright indirect sunlight. ",
+            "temperature":"Average warmth ranging from 60°F and no less than 50°F",
+            "soil":"Any potting mix.",
+            "image": "assets/parlorpalm.jpg"
+        },
+
+        {
+            "id":3,
+            "name":"Peace lily",
+            "origin":"Tropical rainforest of Colombia & Venezuela",
+            "desc":"Peace lily’s scientific name is ‘Spathiphyllum wallisii'. It has beautiful white color flowers with green glossy leaves. It’s flower bloom beautifully about 8 months a year. It is easy to care and grows quickly. Fertilize it once a month.It is dangerous for pets and children so keep it away from them. ",
+            "water":"When the top soil seems slightly dry, water it but don’t overwater in summer. In winter water less, water it when top soil is drier. ",
+            "light":"Too much light can burn the leaves and cause your leaves turn to yellow. Keep it away from direct sunlight, placing in warm indirect sunlight. ",
+            "temperature":"Average room temperature above 55°F",
+            "soil":"Use peat based potting mix with perlite. ",
+            "image":"assets/peacelilly.jpg"
+        },{
+            "id": 4,
+            "name": "Snake plant ",
+            "origin":"Tropical Africa",
+            "desc": "It is also known as Sansevieria, which is a very beginner friendly houseplant. It is mostly preferred because it purifies air around us and removes toxic air. Snake plant is called so because it grows to a shape like that of snake. It is found in various colors and sub varieties. It is one of the most common house plants across different countries. It might be dwarf or tall depending on its types. Repot it when it starts to grow and pot is covered with baby plants. It grows so many babies from the bottom. Note: keep it away from pets as it is dangerous for them.",
+            "water":"Snake plant loves to be dry. Allow the soil to completely dry before watering. ",
+            "light": "It prefers moderate to bright indirect sunlight. Avoid direct sunlight as it might burn the leaves.",
+            "temperature":"Average warmth 60-75°F and no less than 50°F ",
+            "soil":"Common well-draining potting mix available in any garden stores.",
+            "image": "assets/snakeplant.jpg"
+        },{
+            "id":5,
+            "name":"Fiddle Leaf fig",
+            "origin":"West Africa ",
+            "desc":"It belongs to ficus genus with grow larger leaves and plant grow taller up to 15 meters tall in natural habitat. They are placed in corners of rooms. It is a slow growing plant. Fertilize it during spring. Note: it is toxic to cats, dogs and horses.Normal room humidity is fine but increase humidity during the winter if artificial heating is used in room. ",
+            "water":"When top soil is slightly dry ",
+            "light":"Place in a Bright indirect sunlight with a bit of direct morning sunlight ",
+            "temperature":"Average room temperature from 60-75°F ",
+            "soil":"A good draining potting soil. ",
+            "image":"assets/fiddle-leaf-fig_charcoal-e1652800894846.jpg"
+        },
+        {
+            "id":6,
+            "name":"Anthurium",
+            "origin":"Central and South America ",
+            "desc":"Anthurium is a beautiful flowering indoor plants whose flower blooms in different colors such as red, orange, pink, white, black, purple. This plant is delightful to grow because of how splendid they grow and look. It has broad green glossy leaves and smaller stem in the bottom. It’s flower blooms from the bottom and it blooms flowers about 8 months a year. Use fertilizer once a month for a healthy Anthurium. It is toxic to cats and dogs.",
+            "water":"Keep soil most in summer but don’t overwater. ",
+            "light":"Bright indirect sunlight. ",
+            "temperature":"60-75°C ",
+            "soil":"Peat moss, coco peat, perlite etc. can be used ",
+            "image":"assets/Anthurium.jpg"
+        },
+        {
+            "id":7,
+            "name":"Spider plant ",
+            "origin":"South Africa",
+            "desc":"Its botanical name is ‘Chlorophytum comosum’. It grows indoor as well as semi-indoors. It has small leaves with green and white mix. Spider plant is also easy to grow and grows very quickly. It removes toxic air from the environment. It is also a hanging plant. It grows small flower if it meets favorable condition. Repot your spider plant when there’s visible growth. Repot to a little bigger pot size with well drainage.  ",
+            "water":"Spider plant loves to be moist but don’t overwater it. Water when soil starts to dry out. ",
+            "light":"It grows well in moderate to bright sunlight. ",
+            "temperature":"It requires average temperature from 55 to 75°F Humidity: Misting it’s leaves daily helps it to grow well. ",
+            "soil":"Make sure there’s proper drainage in the bottom of your pot and it adapts any potting mix or use peat as well. ",
+            "image":"assets/Spider_Plant.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Lucky bamboo",
+            "origin":"West Africa",
+            "desc": "‘Lucky bamboo is an easy growing plant that survive in both soil and water. While this plant has a common name of bamboo but the interesting fact is it doesn’t belong to bamboo family but belongs to dracaena genus. Lucky bamboo is well known for its air purifying features and is considered to be lucky in Chinese practice.",
+            "water": "If it is grown in water, change the water once a week and use pure water. If you have grown your lucky bamboo in soil, water once the soil becomes slightly dry.",
+            "light": "Prefers bright indirect sunlight as direct sunlight can burn the leaves.",
+            "temperature":"Warm room temperature from 65°F to 90°F.",
+            "soil":"‘A well-draining potting mix.",
+            "image": "assets/luckybamboo.jpg"
+        },{
+            "id":9,
+            "name":"Areca palm",
+            "origin":"Madagascar",
+            "desc":"Areca palm is a tall growing indoor plant which has small green leaves all over. It can grow about 6ft. It grows slowly but watching it grow is grateful. People all over prefers to place it at corner of the rooms because of its height which is attractive. Its Latin name is ‘Dypsis Lutescens’. Feed a fertilizer during spring and summer.Mist the leaves regularly.  Repotting: Repot during spring in a pot 2-4 inches wider than current pot ",
+            "water":"It doesn’t need to be feed with water more often. Water it when soil starts to dry. Don’t over or underwater. ",
+            "light":"Areca palm needs bright indirect sunlight. Direct sunlight causes leaves to burn. ",
+            "temperature":"60°F to 75°F but sudden temperature drop can cause brown spots on leaves",
+            "soil":"plant in a proper drained potting mix with the drainage hole at bottom",
+            "image":"assets/arecaplam.jpg"
+        },{
+            "id":10,
+            "name":"Arrowhead",
+            "origin":"South America ",
+            "desc":"Arrowhead is known with different name such as syngonium, arrowhead vine, nephthytis podophyllum etc. Arrowhead has huge number of variations from green to white colored leaves. It has arrow like pointed leaves at the top. It can grow up to 6ft depending on its types. It is tall growing, easy to care houseplant. Repot when the plants grow and seems to need another pot. Repot in a pot with 2-3 inch wider than current pot. It is toxic to pets.",
+            "water":"Water when top soil becomes try to touch. Water less in winter ",
+            "light":": Place in bright indirect sunlight. It grows in direct light as well but it causes brown spot-on leaves. ",
+            "temperature":"Maintain 60-80°F temperature. Not less than 50. ",
+            "soil":"Any decent potting mix with well drainage. ",
+            "image":"assets/arrrowhead.jpg"
+        },{
+            "id":11,
+            "name":"Christmas cactus ",
+            "origin":"Brazil",
+            "desc":"Its scientific name is schlumbergera bridgesii. It produces a small flat stem segments that are round. It blooms flowers at the end of these segments. It’s flowers ranges from pink to red shades. Repot the plant once in 3 years.",
+            "water":"Keep top soil moist all the time but don’t overwater ",
+            "light":"Bright direct light during winter and fall. Bright indirect light during non-flowering time. ",
+            "temperature":"60-70°F not less than 50. ",
+            "soil":"Use potting mix or peat-based mix.",
+            "image":"assets/christmascactus.jpg"
+        }
+]
+}

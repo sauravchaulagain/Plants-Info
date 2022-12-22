@@ -1,0 +1,119 @@
+{
+    "products": [
+        {
+
+
+            "id": 21,
+            "name": "'Hibiscus'",
+            "origin": "",
+            "desc": ": Hibiscus is an easy growing plant whose flowers are said to have many benefits. It blooms flowers of different colors such as yellow, pink, white, orange, red etc. Hibiscus grows in a container as well as normal land. It belongs to family ‘Malvaceae'. The flowers are large, conspicuous, trumpet-shaped with five or more petals. Hibiscus flowers are edible and are rich in vitamin C. It blooms flower constantly about 8 9 months a year. Fertilize it once a month in summer season. ",
+            "water": "Keep it moist during summer. Water it every day in warm weather. Water it once the top soil dries in winter days. ",
+            "light":"Provide daily 6-7 hours of sunlight in order to bloom.",
+            "soil": "A proper drained potting mix is advised with hole on the bottom of the container. ",
+            "image": "assets/Hibiscus_flower_TZ.jpg"
+        },{
+            "id": 22,
+            "name": "Bougainvillea",
+            "origin": "Central and South America",
+            "desc": "Bougainvillea is also famously known as paper flower. It’s flowers ranges from yellow to white, pink, orange, red, peach etc. It is easy growing plant which is mostly found in every house in Nepal. People make big trees out of it because of its flowers. These tropical vine-like shrubs are quite drought tolerant, love the sun, and pack a huge punch of color. Flowering time: Almost 6 7 months . Once a month in blooming season Trim your bougainvillea to make it bushier once your plant is tall. ",
+            "water": "Don’t overwater it but keep it moist ",
+            "light":"keep it in warm direct sunlight at least 6 hours a day. ",
+            "soil": "Use well drained potting mix and make sure to make hole in the bottom.",
+            "image": "assets/Bougainvillea-Feature.jpg"
+        },
+        {
+          "id": 23,
+            "name": "Begonia ",
+            "origin": "Central and South America, Asia, and sub-Saharan Africa.",
+            "desc": "An outdoor view enriched with beautiful plants is welcoming. But, what about that with a variety of Begonia plants with different color shades? The Begonia plant is available in a variety of colors including pink, orange, red, and rose. And all these beautiful blooms will stay up even in the coldest winter. Though like other plants, they need time in the sun. The natural habitat of many begonias are moist, cool forests and tropical rainforests, but some begonias are adapted to dryer climates. ",
+            "water": "Once when top soil is 80% dry ",
+            "light":"2-3 hours of morning sunlight would do the job ",
+            "soil": "Use light potting soil with extra perlite to promote proper drainage.",
+            "image": "assets/begonia.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Chrysanthemum",
+            "origin": "East Asia and northeastern Europe. ",
+            "desc": "They are very attractive flowering plants which blooms flowers of different colors, sizes and shapes. Chrysanthemum belongs to Aster family. Most plants of the genus are perennial herbs or subshrubs. Many have simple aromatic leaves that alternate along the stem. Some have both disk and ray flowers in the heads, but others lack ray or disk flowers. Most species originate from East Asia and the center of diversity is in China. Place it in a warm outdoor temperature.",
+            "water": "Water regularly ",
+            "light":"Mums are a sun loving plant and prefer an exposure with at least 6 hours of sun per day.  ",
+            "soil": "Any potting mix will be fine.",
+            "image": "assets/chrysanthemum.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Hydrangea ",
+            "origin": "Japan",
+            "desc": "These elegant plants are easy to cultivate, tolerate almost any type of soil, and produce abundant blooms. Colors beguile with clear blue, vibrant pink, frosty white, lavender, and rose blossoms—sometimes all blooming on the same plant. Its special feature is it attracts butterflies. Autumn is the best time to plant hydrangeas, followed by spring planting. The hydrangea was first cultivated in Japan but is native to both Asia and the Americas .If your soil is rich, you may not need to fertilize hydrangeas. Too much fertilizer encourages leafy growth at the expense of blooms .",
+            "water": "Make sure your hydrangea gets plenty of water. ",
+            "light":"Hydrangea prefer partial sun. Don't expose in the day sunlight.",
+            "soil": "Most hydrangeas will thrive in fertile, well-draining soils that receive plenty of moisture. Add compost to enrich poor soil. Note: Prune every year immediately after bloom.",
+            "image": "assets/hydrangea.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Lavender",
+            "origin": "Native to countries bordering the Mediterranean",
+            "desc": "The Lavender scent is one of the most loved scents that you will find in almost every household as a freshener. With the herb plant in your garden, the beautiful aromatic scents just get better. These plants are hardy perennials, they are all blooming throughout the year. It has varieties of medicinal and health purposes. Lavender is sometimes also used to flavor beverages and sweets and has a number of applications in herbal medicine. Flower: White, purple or pink. Blooms repeatedly. ",
+            "water": "Water lavender once when it dries out .",
+            "light":"Plant lavender in full sun. ",
+            "soil": "Well drained soil with added organic matter. ",
+            "image": "assets/lavender.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Rose ",
+            "origin": "Central Asia",
+            "desc": "The rose is a bulbous, fragrant flower that comes in many different varieties and colors, including red, white, pink, and yellow. They are among the world’s most popular and best-known flowers. Roses are very popular in garden. Different colors of roses are said to symbolize different things, especially when given as gifts. While all roses are associated with romantic love, red roses have an especially strong association. White rose can be used to represent innocence, while yellow roses can be used to represent friendship. It was probably originated in Central Asia but spread and grew wild over nearly the entire northern hemisphere.  Fertilize them once a month during flowering season for impressive flowers.",
+            "water": "Roses prefer to be watered when their top soil is dry. They hate overwater. ",
+            "light":"Garden rose prefer to stay in full sun .",
+            "soil": "Plant roses in rich, well-draining soil.  ",
+            "image": "assets/rose.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Geranium ",
+            "origin": "South Africa",
+            "desc": "Geraniums are easy-care abundant bloomers whose bright flowers will blossom from spring until fall. Geranium plants are grown as annuals in most zones, but are considered evergreen perennials. The flowers have five petals and are colored white, pink, purple or blue, often with distinctive veining. Geraniums will grow in any soil as long as it is not waterlogged.  Propagation is by semi ripe cuttings in summer, by seed, or by division in autumn or spring. Geraniums are appreciated for their long blooming season that starts in spring and can last into fall. If plants are kept above 45 to 50 degrees, they may also bloom in winter to early spring.Native to South Africa, and in the 17th century, they made their way to European spring early summer.  ",
+            "water": "Allow the soil to dry somewhat between watering, but not completely. Water moderately during growth and sparingly in winter. Both over and under watering cause stress to the plant and may cause leaves to turn red. ",
+            "light":"Most geraniums grow in full exposure sun ",
+            "soil": "They prefer Fertile well-draining soil ",
+            "image": "assets/geranium.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Marigold ",
+            "origin": "",
+            "desc": "Marigold is an annual flowering plant which is famously known as ornamental plants. It belongs to aster family. Members of the genus Tagetes have attractive yellow, orange, or red composite flowers that are solitary on the stems or clustered. The leaves are arranged opposite each other on the stem and are usually finely cut. ",
+            "water": "Water marigold daily but don't keep it soggy. When you water marigolds, allow the soil to dry somewhat between waterings, then water well and repeat the process. Water more in high heat. Do not water marigolds from overhead. ",
+            "light":"Marigold needs bright direct sunlight. ",
+            "soil": "Fertile, well-drained Soil. Prepare the soil by digging down about 6 inches to loosen it, then mix in compost to add fertility and improve consistency. ",
+            "image": "assets/marigold.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Carnation",
+            "origin": "",
+            "desc": "Carnations, known as dianthus (Dianthus caryophyllus), are a perennial grown widely for use as cut flowers.  Carnations are a variety of dianthus, also known as pinks, because their natural color range includes many shades of pink, white, coral, and caryophyllids has attractive flowers. ",
+            "water": "They need regular water in spring when their flower buds are forming. During dry spells in summer, they may need an extra drink of water. ",
+            "light":"Although they do best in full sun, carnations are fine with some partial shade.  ",
+            "soil": "Carnations require excellent drainage and an alkaline soil, also referred to as 'sweet' soil. Alkaline have slightly higher concentrations of calcium, magnesium, and sodium.",
+            "image": "assets/carnation.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Azalea ",
+            "origin": "",
+            "desc": "These loosely branched, shade-loving plants with elliptical leaves can bring delightful color to all corners when flowers appear. It can grow more than 20 feet tall, while dwarf varieties may stay under 3 feet. The range of colors is spectacular, from white to pale pink to a range of reds and purples. Most azaleas bloom in mid-spring (mid to late April), but some bloom earlier or later, and it's easy to choose a variety for any design need. Azaleas shrubs are best planted in the spring or early fall as container-grown nursery plants. Growth rates vary by species, but most are fairly slow-growing.",
+            "water": "Azaleas need water to bloom, and spring rain showers usually do the job. However, if the spring is dry, extra watering can be beneficial. ",
+            "light":"Azaleas flourish in a partial shade location that gets a few hours of morning sun in summer and in colder season, it requires more sunlight.",
+            "soil": "Soil should also have good drainage and good fertility with plenty of organic matter. ",
+            "image": "assets/azalea.jpg"
+        }
+
+
+
+
+]
+}
